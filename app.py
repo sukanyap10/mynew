@@ -6,7 +6,6 @@ import json
 import requests
 from datetime import datetime
 from fpdf import FPDF
-from dotenv import load_dotenv
 from streamlit_option_menu import option_menu
 import base64
 from io import BytesIO
